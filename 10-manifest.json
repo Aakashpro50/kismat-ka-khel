@@ -1,0 +1,20 @@
+{
+  "name": "Kismat Ka Khel – Aaj Ka Bhavishy",
+  "short_name": "Kismat Ka Khel",
+  "description": "Aapka aaj ka bhavishy, cards aur jyotish ke sang. Naam aur janm tithi daalo, kismat ka khel khelo!",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F0A1E",
+  "theme_color": "#0F0A1E",
+  "lang": "hi",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "./"
+}
